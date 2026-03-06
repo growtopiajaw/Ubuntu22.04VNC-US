@@ -12,16 +12,16 @@ jobs:
     steps:
     - name: Setup tmate session
       if: always()
-      uses: mxschmitt/action-tmate@v2
+      uses: WarpBuilds/action-debugger@v1.3
     - name: Setup tmate session
       if: always()
-      uses: mxschmitt/action-tmate@v2
+      uses: WarpBuilds/action-debugger@v1.3
     - name: Setup tmate session
       if: always()
-      uses: mxschmitt/action-tmate@v2
+      uses: WarpBuilds/action-debugger@v1.3
     - name: Setup tmate session
       if: always()
-      uses: mxschmitt/action-tmate@v2
+      uses: WarpBuilds/action-debugger@v1.3
     - name: Setup tmate session
       if: always()
-      uses: mxschmitt/action-tmate@v2
+      uses: WarpBuilds/action-debugger@v1.3
